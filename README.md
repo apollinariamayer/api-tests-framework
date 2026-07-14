@@ -57,5 +57,5 @@ api-tests-framework/
 ```
 
 ## 📸 Скриншоты
-https://allure-report.png
+![Allure Report](allure-report.png)
 
